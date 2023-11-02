@@ -46,3 +46,5 @@ variable)
 **Link to the Dataset**
 
 https://www.kaggle.com/rishidamarla/individuals-killed-by-the-police
+
+Please note that I have included a comprehensive PDF document containing the analysis for your review.
